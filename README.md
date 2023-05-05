@@ -4,6 +4,6 @@ Desafio extra do curso de análise de dados do Senac e Resilia (projeto individu
 **Aluno:**
 <br>
 Matheus Augusto. <br>
-**Email:**
+**E-mail:**
 <br>
 mataugusto1999@gmail.com
